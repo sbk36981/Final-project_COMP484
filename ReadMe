@@ -1,0 +1,86 @@
+Author : Swapnil Kanani
+COMP 484 Final project
+
+
+Purpose:
+
+1) A website to show technical support options for company named Techbuddy. User can order different service option based on their requirements.
+
+2) About page talks about the company.
+
+3) Plan page shows various option available for the customers
+
+4) Login page allows user to login to their account
+
+5) Contact us pages lets user connect with company for the service
+
+Main project folder has following files and folders
+
+
+list of files
+
+1) Index.html
+
+2) plans.html
+
+3) about.html
+
+4) contact.html
+
+5) login.html
+
+6) contact.php
+
+7) login.php
+
+list of folders
+
+1) css
+
+2) images
+
+3) js
+
+CSS folder files
+
+1) bootstrap.css
+
+2) bootstrap.min.css
+
+3) style.css
+
+Images folder files
+
+1) about.jpg
+
+2) arrows.png
+
+3) backup.jpg
+
+4) banner.jpg
+
+5) nav-icon.jpg
+
+6) up-arrow.jpg
+
+js folder files
+
+1) bootstrap.min.js
+
+2) easing.js
+
+3) jquery.js
+
+4) move-top.js
+
+
+How to open?
+
+There are two ways site can be opened
+
+1) On local machine: Create a folder named Techbuddy in xampp/hddocs 
+
+2) Copy all the files listed above in the Techbuddy folder
+
+3) Open google chrome and write localhost/Techbuddy in url area of the browser
+
