@@ -33,6 +33,8 @@ list of files
 
 7) login.php
 
+8) composer.json
+
 list of folders
 
 1) css
@@ -83,4 +85,8 @@ There are two ways site can be opened
 2) Copy all the files listed above in the Techbuddy folder
 
 3) Open google chrome and write localhost/Techbuddy in url area of the browser
+
+Another way
+
+Type "https://techbuddy-comp484.herokuapp.com/" in the browser to open the website.
 
